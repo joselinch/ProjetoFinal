@@ -13,6 +13,7 @@ public class CadastrosDAO {
 		FileWriter fwritter = null;
 		PrintWriter pwritter = null;
 		File arq = new File("cadastros.txt");
+		
 		try 
 		{
 			//escreve em cadastros.txt nome, cpf e ano de nascimento do paciente apos o cadastro
