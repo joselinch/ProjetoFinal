@@ -20,8 +20,8 @@ public class App {
 public static void main(String[] args) {
 
 		//instancia os objetos das telas, das filas, listas e funcionalidades.
-		TelaPrincipal tp = new TelaPrincipal();
 		TelaCadastro tc = new TelaCadastro();
+		TelaPrincipal tp = new TelaPrincipal();
 		TelaTriagem tt = new TelaTriagem();
 		TelaConsulta tco = new TelaConsulta();	
 		TelaLogin tl = new TelaLogin();
